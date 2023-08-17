@@ -317,7 +317,7 @@ static void release_interpreter(interpreterdata *idata)
 }
 
 /**
- ** pytho_cleanup
+ ** python_cleanup
  **
  *     This function gets called for clean ups registered
  *     with register_cleanup(). Clean ups registered via
